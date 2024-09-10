@@ -11,7 +11,7 @@ let datas = [
       description: "Um hobbit se junta a um mago e dois elfos em uma jornada para destruir um anel maligno.",
       gender: "Fantasia, Aventura",
       link: "https://www.imdb.com/title/tt0120737/",
-      tags: "aneis anel listar todos"
+      tags: "senhor dos aneis anel listar todos"
     },
     {
       title: "Interestelar",

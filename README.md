@@ -1,7 +1,7 @@
 <h1>Aplicação para realizar busca de filmes</h1>
-<div style="width=10px" >
+<div style="width:70%;height: 50%" >
     <img src="./resources/presentation.png"></img>
-<div>
+</div>
 <p>Este projeto foi desenvolvido durante a imersão da Alura, que propôs um desafio para criar uma aplicação capaz de realizar buscas.</p>
 
 <p>A base de dados do projeto foi gerada pela IA generativa Google Gemini, para realizar esses testes </p>
@@ -10,9 +10,9 @@
 <ol>
     <li>Abra o arquivo index.html do projeto</li>
     <li>Escreva "Listar todos", para vizualizar todos os filmes que estão registrados na base de dados.</li>
-    <img src="./resources/step-2.png"></img>
+    <img src="./resources/step-2.png" style="width:70%;height: 50%"></img>
     <li>Pesquise pelo menos um destes filmes ou o gênero dos mesmos.</li>
-    <img src="./resources/step-3.png"></img>
+    <img src="./resources/step-3.png" style="width:70%;height: 50%"></img>
 </ol>
 
 
